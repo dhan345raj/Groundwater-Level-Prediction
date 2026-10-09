@@ -1,0 +1,11 @@
+feature,importance
+ERA5_sro,0.10013557
+HYRAS_pr,0.080788575
+HYRAS_tasmax,0.07403659
+HYRAS_tas,0.073669046
+DWD_soil_moist,0.07150867
+DWD_soil_temp5cm,0.071232095
+rain_4sum,0.06892673
+HYRAS_hurs,0.05684126
+DWD_evapo_fao,0.050885696
+DWD_evapo_r,0.044930454
